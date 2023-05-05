@@ -1,0 +1,23 @@
+For each of the following examples describe at least one possible input and output:
+
+○ A self-driving car
+Inputs include information from cameras and sensors, as well as the driver's response while in
+control of the vehicle, how far away from a sensed hazard they start to break for example.
+Output is how the car is driven in autopilot mode, how far away from the vehicle ahead it stays,
+its speed and when it starts warning the driver to break.
+
+○ Netflix recommendation system
+The inputs are what a viewer is watching, what they choose next, and whether they watch it all
+or stop halfway through. The output is what Netflix recommends next. This output is based on
+the input information; what other people who watched the same shows previously also watched.
+
+○ Signature recognition
+The input in signature recognition is the signatures and a person’s evaluation of whether they
+are the same or not. The output will be a decision on whether two signatures match, which have
+not been verified by a person.
+
+○ Medical diagnosis
+The input in this case is information on symptoms the program is given, as well as any other test
+results. It also must be supervised, have input of what the symptoms are of different medical
+conditions and their treatments. The output would be a prediction of a medical condition and any
+sugested treatment.
