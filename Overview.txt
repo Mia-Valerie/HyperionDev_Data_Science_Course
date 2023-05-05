@@ -1,0 +1,25 @@
+HyperionDev_Data_Science_Course
+
+Collection of projects developed as part of my Data Science Fundementals course with HyperionDev.
+All tasks were graded at 100%. 
+Any Tasks not included here were written research tasks or career development based.
+
+Task 1 - Your First Computer Program, and Using Variables
+Task 2 - The String Data Type
+Task 3 - Beginner Control Structures - The Boolean Data type and if, else, and elif Statements
+Task 4 - Logical Programming - Operators
+Task 5 - Capstone Project - Variables and Control Structures
+Task 7 - Beginner Control Structures - While Loop
+Task 8 - Beginner Control Structures - For Loop
+Task 9 - Towards Defensive Programming
+Task 11 - String Handling
+Task 12 - Beginner Data Structures - Lists and Dictionaries
+Task 14 - Beginner Programming with Functions - Defining Your Own Functions
+Task 15 - Beginner Data Structures - 2D Lists
+Task 16 - Data Visualisation I
+Task 17 - Working with Datasets
+Task 18 - Introduction to Machine Learning
+Task 19 - Supervised learning I: Simple Linear Regression
+Task 20 - Introduction to NLP
+Task 21 - Semantic Similarity (NLP)
+Task 22 - Capstone Project - NLP
